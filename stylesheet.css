@@ -1,0 +1,16 @@
+form {
+  background-color: black;
+  padding: 2px;
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+}
+
+#email {
+  border-radius: 10px;
+}
+
+#subscribe {
+  background-color: bisque;
+  border-radius: 10px;
+}
