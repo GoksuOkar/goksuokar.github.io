@@ -1,16 +1,48 @@
-form {
-  background-color: black;
-  padding: 2px;
+#main {
+  background-color: plum;
+  margin: 20%;
+  padding: 20px;
   text-align: center;
-  width: 300px;
-  border-radius: 10px;
+
 }
 
+form {
+  margin: auto;
+  background-color: black;
+  padding: 5px;
+  text-align: center;
+  width: 50%;
+  border-radius: 10px;
+  display: flexbox;
+}
+
+p {
+  font-family: 'Gulzar', serif;
+  font-size: large;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Rubik Moonrocks', cursive;
+  text-align: center;
+}
 #email {
+  background-color: papayawhip;
   border-radius: 10px;
 }
 
 #subscribe {
-  background-color: bisque;
+  background-color: springgreen;
   border-radius: 10px;
+}
+
+.what-it-is {
+  text-align: center;
+  display: block;
+  line-height: 26px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#description {
+  width: 270px;
 }
