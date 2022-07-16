@@ -1,5 +1,5 @@
 #main {
-  background-color: plum;
+  background-color: rgb(224, 140, 224);
   margin: 20%;
   padding: 20px;
   text-align: center;
@@ -8,10 +8,9 @@
 
 form {
   margin: auto;
-  background-color: black;
   padding: 5px;
   text-align: center;
-  width: 50%;
+  width: 100%;
   border-radius: 10px;
   display: flexbox;
 }
@@ -27,8 +26,7 @@ h1 {
   text-align: center;
 }
 #email {
-  background-color: papayawhip;
-  border-radius: 10px;
+  text-align: center;
 }
 
 #subscribe {
@@ -40,7 +38,7 @@ h1 {
   text-align: center;
   display: block;
   line-height: 26px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Edu NSW ACT Foundation', cursive;
 }
 
 #description {
